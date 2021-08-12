@@ -12,3 +12,5 @@ They can also “fill up” their water bottle using a slider and adding a namet
 
 If they don't like their choice of food or they would like to give it another try, they can click "Restart" and everything will be back to its default setting.
 
+![](Screen%20Shot%202021-08-11%20at%207.46.37%20PM.png)
+![](Screen%20Shot%202021-08-11%20at%207.48.01%20PM.png)
